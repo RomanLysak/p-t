@@ -13,17 +13,17 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>4.3.3.BUILD-SNAPSHOT</version>
+            <version>4.3.4.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>4.3.3.BUILD-SNAPSHOT</version>
+            <version>4.3.4.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
-            <version>4.3.3.BUILD-SNAPSHOT</version>
+            <version>4.3.4.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
